@@ -1,4 +1,4 @@
-module Paramable
+
 
 
   module Paramable
@@ -7,5 +7,3 @@ module Paramable
       name.downcase.gsub(' ', '-')
     end
   end
-
-end
